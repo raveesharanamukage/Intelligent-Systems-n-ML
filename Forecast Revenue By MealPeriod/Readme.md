@@ -1,1 +1,1 @@
-This repo contains hotel revnue forecast per mealperiod and revenue center over a 3-month period, generated using LSTM and XGBoost models trained on one year of transaction-level data. XGBoost outperformed LSTM, achieving better test results.
+This repo contains hotel revenue forecast per mealperiod and per revenue center over a 3-month period, generated using LSTM and XGBoost models trained on one year of transaction-level data. XGBoost outperformed LSTM, achieving better test results.
